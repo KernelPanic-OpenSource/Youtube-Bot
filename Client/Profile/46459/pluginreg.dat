@@ -1,0 +1,63 @@
+Generated File. Do not edit.
+
+[HEADER]
+Version|0.17|$
+Arch|x86-msvc|$
+
+[PLUGINS]
+npAdobeAAMDetect32.dll|$
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\CCM\Utilities\npAdobeAAMDetect32.dll|$
+1.0.0.0|$
+1425855172000|0|0|0|$
+A plugin to detect whether the Adobe Application Manager is installed on this machine.|$
+AdobeAAMDetect|$
+1
+0|application/x-adobeaamdetect|AdobeAAMDetect||$
+npGoogleUpdate3.dll|$
+C:\Program Files (x86)\Google\Update\1.3.33.5\npGoogleUpdate3.dll|$
+1.3.33.5|$
+1500045228980|0|0|0|$
+Google Update|$
+Google Update|$
+2
+0|application/x-vnd.google.update3webcontrol.3|||$
+1|application/x-vnd.google.oneclickctrl.9|||$
+npGarenaTalkPlugin.dll|$
+C:\Program Files (x86)\Garena Plus\bbtalk\plugins\npPlugin\npGarenaTalkPlugin.dll|$
+1.0.0.1|$
+1495702084000|0|0|0|$
+Garena Talk Plugin|$
+Garena Talk Plugin|$
+1
+0|application/garenatalk|||$
+npnv3dvstreaming.dll|$
+C:\Program Files (x86)\NVIDIA Corporation\3D Vision\npnv3dvstreaming.dll|$
+7.17.13.8476|$
+1498595271662|0|0|0|$
+NVIDIA 3D Vision Streaming plugin for Mozilla browsers|$
+NVIDIA 3D VISION|$
+1
+0|application/mozilla-3dv-streaming-plugin|npnv3dvstreaming|rts|$
+npnv3dv.dll|$
+C:\Program Files (x86)\NVIDIA Corporation\3D Vision\npnv3dv.dll|$
+7.17.13.8476|$
+1498595273664|0|0|0|$
+NVIDIA 3D Vision plugin for Mozilla browsers|$
+NVIDIA 3D Vision|$
+3
+0|image/jps|JPEG-based stereo image|jps|$
+1|image/pns|PNG-based stereo image|pns|$
+2|image/mpo|Multi-Picture Format image|mpo|$
+NPSPWRAP.DLL|$
+C:\PROGRA~2\MICROS~1\Office16\NPSPWRAP.DLL|$
+16.0.4266.1001|$
+1438362086000|0|0|0|$
+The plugin allows you to have a better experience with Microsoft SharePoint|$
+Microsoft Office 2016|$
+2
+0|application/x-sharepoint|SharePoint Plug-in for Firefox||$
+1|application/x-sharepoint-uc|||$
+
+[INVALID]
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\CCM\Utilities\npAdobeAAMDetect64.dll|$
+1425855172000|$
